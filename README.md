@@ -3,7 +3,7 @@
 
 
 
-![Alt text](../img/readme_img/image.png)
+![Alt text](US-Birth-Rates_analysis/img/readme_img/image.png)
 
 # Data Set
 
